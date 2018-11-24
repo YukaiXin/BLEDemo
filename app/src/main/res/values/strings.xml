@@ -1,0 +1,8 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">BLEDemo</string>
+
+
+    <string name="wallet_id_num">ID:&#160;<xliff:g>%s</xliff:g></string>
+
+    <string name="must_update_hardware">必须更新固件</string>
+</resources>
